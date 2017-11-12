@@ -1339,12 +1339,12 @@ body {
 }
 .cid-qAGN5nFG52 .navbar {
   padding: .5rem 0;
-  background: #232323;
+  background: #000000;
   transition: none;
   min-height: 77px;
 }
 .cid-qAGN5nFG52 .navbar-dropdown.bg-color.transparent.opened {
-  background: #232323;
+  background: #000000;
 }
 .cid-qAGN5nFG52 a {
   font-style: normal;
@@ -1428,7 +1428,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qAGN5nFG52 .dropdown .dropdown-menu {
-  background: #232323;
+  background: #000000;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1499,7 +1499,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ed0a23;
+  background-color: #ffffff;
 }
 .cid-qAGN5nFG52 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
