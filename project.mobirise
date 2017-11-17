@@ -32,6 +32,10 @@
         "#ff0000"
       ]
     },
+    "favicon": "@PROJECT_PATH@/assets/images/q-vrk1cm9oe1-128x72.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
     "versionFirst": "4.4.0",
     "uniqCompNum": 11,
     "versionPublish": "4.4.0"
